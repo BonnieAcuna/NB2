@@ -10,10 +10,14 @@ NOTE: This is Header style file. All Header related style included in this file.
   width: 100%;
   z-index: 9;
 }
-.header-area{}
+/* .header-area{}
 .logo {
+
   margin-top: 20px;
-}
+} */
+/* .head {
+  margin-top: 70px;
+} */
 .main-menu{}
 .main-menu ul{}
 .main-menu ul li {
@@ -152,7 +156,7 @@ NOTE: This is Header style file. All Header related style included in this file.
   padding: 10px 15px;
 }
 .header-sticky.sticky .logo {
-  margin-top: 21px;
+  margin-top: 10px;
 }
 .header-sticky.sticky .menu-toggle {
   margin-top: 27px;

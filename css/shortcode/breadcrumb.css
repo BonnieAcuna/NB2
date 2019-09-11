@@ -38,7 +38,7 @@ h2.page-title {
 }
 
 .breadcrumb-bg-1 {
-  background: rgba(0, 0, 0, 0) url("../../img/bg/breadcrumb.jpg") repeat center center / cover ;
+  background-color: rgba(245, 2, 2, 0);
 }
 
 .ptrn-3 {
@@ -77,7 +77,3 @@ h2.page-title {
 .breadcrumbs-img .breadcrumbs ul li a::after {
   background-color: #f6f6f6;
 }
-.breadcrumbs-img 
-
-
-
