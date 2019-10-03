@@ -363,3 +363,27 @@ h3.main-contact {
 .mfp-bg {
     z-index: 9999999;
 }
+
+.project-desc {
+    margin-bottom: 30px;
+  }
+  .project-desc h3 {
+    border-bottom: 1px solid #e5e5e5;
+    color: #444;
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 22px;
+    margin: 0 0 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .post-share li {
+    float: left;
+    margin-right: 18px;
+  }
+  .post-share li a {
+    display: block;
+    font-size: 16px;
+  }
+  
