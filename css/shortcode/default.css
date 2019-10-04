@@ -597,22 +597,3 @@ textarea:focus {
 }
 
 
-/*image background*/
-.bg-2 {
-  
-}
- .bg-1 { background-image: url(../../img/bg/footer.jpg);}
- .bg-2 { background-image: url(../../img/bg/breadcrumb.jpg);background-size: cover;background-position: center center;}
-.bg-3 {
-  background-image: url("../../img/slider/1.jpg");
-  background-position: center center;
-  background-size: cover;
-}
-.bg-7 {
-  background-image: url("../../img/slider/6.jpg");
-  background-position: center center;
-  background-size: cover;
-}
- .bg-5 { background-image: url(../../img/bg/breadcrumb.jpg);}
- .bg-6 { background-image: url(../../img/bg/breadcrumb.jpg);}
-

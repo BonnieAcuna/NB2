@@ -27,6 +27,16 @@
 
 
 -----------------------------------------------------------------------------------*/
+
+
+.home-page {
+    background-image: url(img/laptop-home.png);
+    background-color: none;
+    background-blend-mode: multiply;
+    background-position: center center;
+    background-size: cover;
+}
+
 .bonniepic {
     width: 200px;
     height:250px;
