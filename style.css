@@ -47,7 +47,7 @@
     height: 250px;
 }
 .nblogo{
-    margin-top: 15px;
+    margin-top: 45px;
     height: 100px;
     width: 100px;
 }
@@ -394,6 +394,24 @@ h3.main-contact {
   }
   .post-share li a {
     display: block;
-    font-size: 16px;
+    font-size: 20px;
+  }
+
+  .faceicon {
+    font-size: 20px;
+    margin-right: 5px;
+    color: #3b5998;
+  }
+
+  .twiticon {
+      font-size: 20px;
+      margin-right: 5px;
+      color:#00acee;
+  }
+
+  .instaicon {
+      font-size: 20px;
+      margin-right: 5px;
+      color: rgb(116, 66, 2);;
   }
   
