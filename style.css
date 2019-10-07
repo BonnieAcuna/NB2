@@ -40,11 +40,13 @@
 .bonniepic {
     width: 200px;
     height:250px;
+    border: 1px solid black;
 }
 
 .melissapic {
     width: 275px;
     height: 250px;
+    border: 1px solid black;
 }
 .nblogo{
     margin-top: 45px;
@@ -386,6 +388,7 @@ h3.main-contact {
     margin: 0 0 20px;
     padding-bottom: 20px;
     text-transform: uppercase;
+    
   }
   
   .post-share li {
@@ -413,5 +416,14 @@ h3.main-contact {
       font-size: 20px;
       margin-right: 5px;
       color: rgb(116, 66, 2);;
+  }
+
+  .nbh2{
+    text-shadow: 0px 2px 8px black; 
+  }
+
+  .bio {
+      text-indent: 20px;
+     
   }
   
