@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------------*/
 
 
-.home-page {
+body {
     background-image: url(img/laptop-home.png);
     background-color: none;
     background-blend-mode: multiply;
@@ -38,13 +38,13 @@
 }
 
 .bonniepic {
-    width: 200px;
+    width: 325px;
     height:250px;
     border: 1px solid black;
 }
 
 .melissapic {
-    width: 275px;
+    width: 300px;
     height: 250px;
     border: 1px solid black;
 }
