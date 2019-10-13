@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------------*/
 
 
-body {
+.home-page {
     background-image: url(img/laptop-home.png);
     background-color: none;
     background-blend-mode: multiply;
@@ -44,12 +44,12 @@ body {
 }
 
 .melissapic {
-    width: 300px;
+    width: 275px;
     height: 250px;
     border: 1px solid black;
 }
 .nblogo{
-    margin-top: 45px;
+    margin-top: 30px;
     height: 100px;
     width: 100px;
 }
@@ -425,5 +425,9 @@ h3.main-contact {
   .bio {
       text-indent: 20px;
      
+  }
+
+  .bold-word {
+      font-weight: bold;
   }
   
